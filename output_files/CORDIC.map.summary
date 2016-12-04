@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Mar 11 12:07:49 2016
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : CORDIC
+Top-level Entity Name : CORDIC
+Family : Cyclone III
+Total logic elements : 2,761
+    Total combinational functions : 2,414
+    Dedicated logic registers : 1,241
+Total registers : 1241
+Total pins : 225
+Total virtual pins : 0
+Total memory bits : 385
+Embedded Multiplier 9-bit elements : 23
+Total PLLs : 0

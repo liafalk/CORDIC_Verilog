@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\DSD\DSD\students_material\system_template_de0\system_template_de0\CORDIC\simulation\qsim
+vCORDIC
+Z1 IA_g3_X]n[z4@3XmE>Y;zO1
+Z2 VnnaSm<T8UCj@Z_HGnFOMW1
+Z3 dD:\Users\Polar\OneDrive\CORDIC\simulation\qsim
+Z4 w1457698088
+Z5 8CORDIC.vo
+Z6 FCORDIC.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|CORDIC.vo|
+Z9 o-work work -O0
+Z10 n@c@o@r@d@i@c
+!i10b 1
+Z11 !s100 NooNmYQe<cdCdhSFz:BCj2
+!s85 0
+Z12 !s108 1457698090.378000
+Z13 !s107 CORDIC.vo|
+!s101 -O0
+vCORDIC_vlg_check_tst
+!i10b 1
+!s100 ZO`^G_:6>YkA[m1S4bW7K2
+IPJm0:Y7K:mk^;@FhGTI^M0
+Vk:gXMzigLGXmYko>j[Y?e1
+R3
+Z14 w1457698084
+Z15 8Waveform1.vwf.vt
+Z16 FWaveform1.vwf.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z17 !s108 1457698092.333000
+Z18 !s107 Waveform1.vwf.vt|
+Z19 !s90 -work|work|Waveform1.vwf.vt|
+!s101 -O0
+R9
+Z20 n@c@o@r@d@i@c_vlg_check_tst
+vCORDIC_vlg_sample_tst
+!i10b 1
+Z21 !s100 HLdYi:K49<?ab51<74GS22
+Z22 I<`eWo<XI9O`IiG5^EzO8n0
+Z23 V[2k6N]:P2Tjd`Na``QRL12
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9
+Z24 n@c@o@r@d@i@c_vlg_sample_tst
+vCORDIC_vlg_vec_tst
+!i10b 1
+!s100 ]J1ij@jE?MU^ca1Y[CZS70
+IE7@P:Y;`FZ358MCSEZgHQ2
+Z25 VBH2L_K[82If:jB1UC3:3k2
+R3
+R14
+R15
+R16
+L0 3631
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9
+Z26 n@c@o@r@d@i@c_vlg_vec_tst

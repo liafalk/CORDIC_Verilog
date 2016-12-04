@@ -1,0 +1,9 @@
+module CORDIC_iteration( clk, theta, xcos, ysin )
+
+input wire clk;
+input wire [31:0] theta;
+
+output reg [31:0] xcos;
+output reg [31:0] ysin;
+
+genvar i

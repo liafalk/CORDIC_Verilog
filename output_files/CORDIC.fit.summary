@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Mar 10 20:40:32 2016
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : CORDIC
+Top-level Entity Name : CORDIC
+Family : Cyclone III
+Device : EP3C16F484C6
+Timing Models : Final
+Total logic elements : 2,587 / 15,408 ( 17 % )
+    Total combinational functions : 2,458 / 15,408 ( 16 % )
+    Dedicated logic registers : 1,029 / 15,408 ( 7 % )
+Total registers : 1029
+Total pins : 129 / 347 ( 37 % )
+Total virtual pins : 0
+Total memory bits : 129 / 516,096 ( < 1 % )
+Embedded Multiplier 9-bit elements : 23 / 112 ( 21 % )
+Total PLLs : 0 / 4 ( 0 % )

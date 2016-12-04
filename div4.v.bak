@@ -1,0 +1,25 @@
+module div4(
+	inputf,
+	result
+);
+
+input wire	[31:0] inputf;
+output wire	[31:0] result;
+
+reg [22:0] temp;
+integer i;
+
+always @ inputf
+begin
+	temp = inputf[22:0];
+	i = 150 - inputf[30:23]; // 23 - (inputf[30:23] - 127)
+	if (i > 0)
+	begin
+		temp = temp >> i;
+		temp = temp << i;
+	end
+end
+
+assign result = {inputf[31], inputf[30:23], temp};
+
+endmodule
